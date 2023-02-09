@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ICS Event Creator</title>
+
+    <link rel="shortcut icon" href="favicon.png" type="image/png">
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    <h1>Creador de eventos en ICS</h1>
+
+    <header>
+        <div id="cal-params">
+            <h3>Elige los días seleccionables:</h3>
+            <ul id="day-list">
+                <li class="selected" data-day="1">L</li>
+                <li class="selected" data-day="2">M</li>
+                <li class="selected" data-day="3">X</li>
+                <li class="selected" data-day="4">J</li>
+                <li class="selected" data-day="5">V</li>
+                <li data-day="6">S</li>
+                <li data-day="7">D</li>
+            </ul>
+
+
+            <label for="daysBetweenEvents">
+                <span>Días entre eventos:</span>
+                <input type="number" name="daysBetweenEvents" id="daysBetweenEvents" placeholder="Por defecto: 1"
+                    oninput="this.value = this.value.slice(0, 3)"
+                >
+            </label>
+
+            <label for="evStart">
+                <span>Principio del evento:</span>
+                <input type="date" name="evStart" id="evStart">
+            </label>
+
+            <label for="evEnd">
+                <span>Final del evento:</span>
+                <input type="date" name="evEnd" id="evEnd">
+            </label>
+
+            <label class="row-input" for="userDaysAffect">
+                <input type="checkbox" name="userDaysAffect" id="userDaysAffect">
+                <span>Días sueltos afectan</span>
+            </label>
+        </div>
+
+
+        <div id="fieldsets">
+            <fieldset id="legend">
+                <legend>Leyenda:</legend>
+                <ul>
+                    <li>
+                        <span class="color today"></span>
+                        <span class="legend-txt">Día actual<l</span>
+                    </li>
+                    <li>
+                        <span class="color selected"></span>
+                        <span class="legend-txt">Día seleccionado<l</span>
+                    </li>
+                    <li>
+                        <span class="color user-selected"></span>
+                        <span class="legend-txt">Días sueltos seleccionados (Click)<l</span>
+                    </li>
+                    <li>
+                        <span class="color unselectable"></span>
+                        <span class="legend-txt">Día no seleccionable<br>(Shift + Click o Pulsación larga)</span>
+                    </li>
+                    <li>
+                        <span class="color out-of-range"></span>
+                        <span class="legend-txt">Día fuera de rango</span>
+                    </li>
+                </ul>
+            </fieldset>
+
+            <!-- Event info -->
+            <fieldset>
+                <legend>Datos del evento:</legend>
+
+                <label for="evName">
+                    <span>Título:</span>
+                    <input type="text" name="evName" id="evName" placeholder="Título">
+                </label>
+
+                <label for="evDesc">
+                    <span>Descripción:</span>
+                    <input type="text" name="evDesc" id="evDesc" placeholder="Descripción">
+                </label>
+
+                <label for="evLoc">
+                    <span>Ubicación:</span>
+                    <input type="text" name="evLoc" id="evLoc" placeholder="Ubicación">
+                </label>
+
+                <label>
+                    <button id="submit">Crear archivo ICS</button>
+                    <button id="dl-btn"><a id="dl" href="#" download="#">Descargar archivo ICS</a></button>
+                </label>
+            </fieldset>
+        </div>
+    </header>
+
+    <main></main>
+
+    <a href="#" download="#" id="dl"></a>
+
+
+
+    <!-- Scripts -->
+    <script src="./js/jquery-3.6.0.min.js"></script>
+    <script src="./js/jquery.finger.js"></script>
+    <script src="./js/moment-with-locales.min.js"></script>
+    <script src="./js/main.js"></script>
+</body>
+</html>
