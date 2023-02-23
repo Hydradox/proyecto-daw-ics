@@ -1,0 +1,1186 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:z5BOWeltgFCvtUpdzm8aK
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230223T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:C2-fvZys55M9IpFURvq8B
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230227T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:D9CQvdfuCeUu26P6cS6I0
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230301T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:OQEd02NSsFnzA95LcBEHD
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230303T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:jx-9I8qtnRNaSLHlbdGF7
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230307T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:RZYNn3m0UqdgcPOk_azD4
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230309T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:h29iJmIuwzK_jxNOtH3QP
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230313T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:TniWPbuiBj3KOCoZ2VpV4
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230315T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:f9nloiKC_Lq0EyIA9oPrm
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230317T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:sFc9VtMWtdf3Mm9yPCmFZ
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230321T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:E9RZQ9qHEIYDtwGiwda9F
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230323T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:a_lNZKhS_c5Qs2ihBuyXm
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230327T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:Bmmts_yKwzFb08JfkLJav
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230329T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:BK9pJm0Q6sME1zajF99C4
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230331T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:VPiA0gFO8PxRHMu7ok5_E
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230404T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:Vcc7LdWMpAnCu9URiY9yZ
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230406T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:FYxZHfnGn0Ig_4X9I9CAf
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230410T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:oXsnN5y3jzMqc0G-aY7s4
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230412T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:JUyBxbJBZ6BiQJQW0naeR
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230414T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:VfbF2hvmUvO0TQW0Z-Hj1
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230418T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:8lw8lXnT4-nUCDW0mGS49
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230420T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:EQ4z7iC46AxURUXY6qB6e
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230424T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:VeVFnihyLIV8Lo9DCCdzK
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230426T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:RcqyDSwS8-ypjTg5l4RZ1
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230428T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:WXWQo6azwVAcrNo7-V-yX
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230502T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:lFQxy_xP9xUZkk5ophW5o
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230504T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:WSNz00gYYoZ0eaPzMJ2CN
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230508T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:TyPofx2RhQyypbmDnRyIr
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230510T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:pHSE3k8dj7fnWWm02ngap
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230512T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:kyjtdEoUBOBpj7UOgUyBr
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230516T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:C6rWgiW2tvDWXbWDrYW9g
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230518T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:ow2L3AuXs4UwqV7-dQI30
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230522T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:6IsM-XkIQ15A6uxtJnvcd
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230524T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:ZSU0v2RSDyEnPfY5C4Bwi
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230526T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:MaYLw6U8eUbATIGKtirCU
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230530T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:VJ4i3tKjtWnQUC5QEofVG
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230601T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:6sgva5kjQVY3M8b2ZMzHU
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230605T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:dly4ds_rPniSuDQjCOYtT
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230607T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:BGxMWb9W9nrLjvAh9FNfe
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230609T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:NJepWUJAK_20TCjmQqDgs
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230613T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:cIQhOXy-ckbiTsoCFkkWt
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230615T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:1VtxeFT4F7gRJ9AsH3vfS
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230619T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:n2AQc8JEXCDdqFT3bzHiy
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230621T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:zgIvnt-rf68xCOMV7uaw4
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230623T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:mw87RLpiUxT66qdyr6rgl
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230627T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:xrqMXTAwJnr1FoF1fd00v
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230629T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:rw5G3NIYhP_cKEn739Da5
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230703T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:UWw1McgYdBgxeoXhWBMMW
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230705T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:OjAB8UZqkb2buTe1a7GGr
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230707T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:EDfE0Upv4X7qLYR9paxsi
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230711T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:ovozNefvMfWWOAqHZHwXv
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230713T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:md3xqcauSvVq09cNrdRjM
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230717T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:yYfmBfaPjoT93rSB_1IqE
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230719T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:WajlywV3Zu0jaSZZ8G1CE
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230721T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:dA5PSJmLXLMSTS1tH_pxA
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230725T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:MyI5b_EsTMFc0E9r5JRJp
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230727T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:t0vinTP2qxQL-19Nv11H4
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230731T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:ECQodvQ_G0yXpD6lpyTMb
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230802T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:YxFvL4-58G4Vrd9AhZ9bH
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230804T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:jCVy9H0pYZzZ4tPWcB2oK
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230808T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:YAa2fD16eKMuf4ieVMq60
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230810T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:1W4uI84H7b8hvZ5-oE_RO
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230814T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:CXiTmVtFWHbrSJTyvZZhG
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230816T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:othQoqHArX5V0687JLpVj
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230818T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:Cfdfs8R-pgqeTIS_hSoB6
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230822T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:DYk-Adk1y0KJ0O67p8wo7
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230824T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:Y14TKxXLk2kW4_otCGuNH
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230828T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:8bbHJVhIs_w_wgIPJXItL
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230830T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:Rezv4BQqBXMWLsv-hcYrH
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230901T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:A68M6-NwXNy2kwYShxKs_
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230905T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:VpyLyesJTs3UBU647BQhp
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230907T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:bW1CGazgr8KfIBsqApoxy
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230911T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:2ZxCxXwxgrmf0MLYZbRSX
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230913T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:0w0aXYiuxsUKcYyf_q6NX
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230915T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:Flc4Sgc1J2f336L_KdGCH
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230919T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:g8ulmxvdlEH85axi5nTTC
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230921T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:LQZgGnnjjl5SfYxYPJgRw
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230925T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:kaYCzqV138RVPJlHI27Du
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230927T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:dwcAPIgK7pk7ABWJs0i3n
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20230929T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:vtGcS1SyXB8RglkEnpxD2
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231003T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:1920C_GSM2xNHc-K-37b2
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231005T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:1pukEDSx5q9MT-ZVOZgtJ
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231009T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:HfXGcakpswxvM5kqcz25h
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231011T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:8uBL88wLQOmekE5MlH_NY
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231013T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:F4uq2Q4-rwCzIJ4k1td-K
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231017T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:kht58omSGBM353lyo9tco
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231019T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:9CDj3hCCANrpfDIJgo8im
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231023T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:nyVyMks96X7XNblrkvFSb
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231025T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:5fW0h7f5ysPq5ft4Ag8cq
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231027T090000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:-dDybNS4watHe4HQATFct
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231031T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:e1pckVEFl1K60LWhzmG9u
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231102T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:5NnJmpOOys4Ep9vaF1NhK
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231106T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:4UJuWToss1tF0uqwabqPg
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231108T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:DWHRA_HdDH5GtiqcdzwKE
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231110T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:u6j09AAfVDumfQTwr6GKw
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231114T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:7QK0YtkasiOSIsPbRQ-nx
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231116T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:FiFX6byM4GCwy3RGGcd4f
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231120T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:KES09ksQlBZS8T7fFyv6T
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231122T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:0PsSIHkmjSPxf-fnFbz5r
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231124T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:wTnuIxVywH22i1sKdOqPD
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231128T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:U_AwE-oGQi6WFRdzrZoRs
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231130T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:yCfc51lOCIsnAbxIlUOcG
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231204T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:mYf8iCtN8iD1fuNaCtuiQ
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231206T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:5LFmGZKBaQXe0ACQF5AIK
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231208T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:sFpydN_UItVVD2BynGtCs
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231212T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:62ASr_vVbG0wzfBqnQ8fR
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231214T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:_kWpbXZqJZZeFHOCNHphY
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231218T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:yNYUwv9pEoqc5IOJWZ5l9
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231220T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:VEXobiLCPSmQqSF9s7Ip9
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231222T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:LYAh0nVKc0YGgWMRKpDJe
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231226T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:MgpgosZXycMJgOur0lawc
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20231228T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:COfx_wNmAqIiKEaQ04NDf
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20240101T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:eHgImNBzfvED6emg7tXXh
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20240103T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:KgrbfEkZcpFN80csKbj2g
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20240105T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:X0AEBDOWDTCh-gxN68RtY
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20240109T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:egI1teI_hHaK9_78WXJTq
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20240111T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:iXHzXYGsftq3jwCaXL-1b
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20240115T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:RuuU8L0tywCTRWNlcg0jD
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20240117T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:djG4kM7WcLWksvJtBuCxK
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20240119T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:N8KEHZ9-ndlkjHvoFPl5H
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20240123T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:hNFN8JXkEqBGrUOpkXQqH
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20240125T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:KD1hG75s6yGCIH423lBDX
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20240129T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:O7vBs0xvTP72E_pHWPUUc
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20240131T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:wY-6gLYvLpWXMRs-VhqIj
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20240202T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:sgPAPr4EF68lrkTKAxWEr
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20240206T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:bW5GkxkIa2c2PZTgWzQ_S
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20240208T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:GPDFDIrTmVOah45iFpvN8
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20240212T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:KCIX2n_FfHUE-uRsZaATh
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20240214T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:yPgfQOfbFdj2UAEACTniG
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20240216T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:-0v_sM6KUERr8GKhjLGm8
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20240220T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+BEGIN:VEVENT
+UID:6yNIu_AN1gKK6GQHwBlGO
+SUMMARY:Depuración de residuos
+DTSTAMP:20230223T122322Z
+DTSTART:20240222T100000Z
+DESCRIPTION:Fechas para la depuración de residuos
+LOCATION:Estación de bombeo - Acequia de Vera
+DURATION:PT2H
+END:VEVENT
+END:VCALENDAR

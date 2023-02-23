@@ -2,6 +2,7 @@
 import * as ics from 'ics'
 import { writeFileSync } from 'fs'
 import { join } from 'path'
+import prisma from './prisma.js'
 
 
 class Calendar {
@@ -33,19 +34,31 @@ class Calendar {
     }
 
 
-    saveICS() {
-        const { error, value } = ics.createEvents(this.dates)
-        if(error) return{
-            success: false,
-            error: error
-        }
+    async saveICS() {
+        return new Promise(async (resolve, reject) => {
+            const { error, value } = ics.createEvents(this.dates)
+            if(error) resolve({
+                success: false,
+                error: error
+            })
 
-        let id = randomID()
-        writeFileSync(join(process.cwd(), 'icals', `${id}.ics`), value)
-        return {
-            success: true,
-            id: `${id}`
-        }
+
+            let filename = `${randomID()}_${simplifyName(this.name)}`
+            writeFileSync(join(process.cwd(), 'icals', `${filename}.ics`), value)
+
+            await prisma.event.create({
+                data: {
+                    name: this.name,
+                    description: this.desc,
+                    fileName: filename
+                }
+            })
+
+            resolve({
+                success: true,
+                id: `${filename}`
+            })
+        })
     }
 }
 
@@ -54,5 +67,10 @@ export default Calendar
 
 
 function randomID() {
-    return Math.random().toString(36).substr(2, 9)
+    return Math.random().toString(36).substring(2, 6)
+}
+
+
+function simplifyName(name) {
+    return name.toLowerCase().replace(/ /g, '_').replace(/[^a-zA-Z\d]+/g, '')
 }

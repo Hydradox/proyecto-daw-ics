@@ -17,18 +17,82 @@ body {
     margin: 0 auto;
 }
 
+nav {
+    width: 90%;
+    height: 3em;
+    margin: 0 auto;
+    border-radius: .7rem;
 
-/* Chrome, Safari, Edge, Opera */
-input::-webkit-outer-spin-button,
-input::-webkit-inner-spin-button {
-    -webkit-appearance: none;
-    margin: 0;
+    padding: 0 1em;
+
+    background-color: #3d3d3d;
+    color: #fff;
 }
 
-/* Firefox */
-input[type=number] {
-    -moz-appearance: textfield;
+nav ul {
+    height: 100%;
+    list-style: none;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
 }
+
+nav a {
+    text-decoration: none;
+    color: #bbb;
+}
+
+nav li:hover a:not(.active) {
+    color: #fff;
+}
+
+nav a.active {
+    color: #fff;
+    font-size: large;
+}
+
+
+.cals-wrapper {
+    width: 90%;
+    min-height: 300px;
+    margin: 1rem auto;
+}
+
+#cals {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.cal-card {
+    height: auto;
+    padding: 1rem;
+
+    background-color: #ddd;
+    border-radius: .7rem;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.btn {
+    width: fit-content;
+
+    margin-top: .5rem;
+    padding: 3px 5px;
+    font-weight: 700;
+
+    background-color: #3d3d3d;
+    color: #fff;
+    text-decoration: none;
+    border-radius: .3rem;
+}
+
+
 
 input {
     padding: 5px;
